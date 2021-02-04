@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPAN581: Research Methods in Linguistics on Open Science and Reproducible Research in Linguistics</title>
+    <link>/</link>
+    <description>Recent content in SPAN581: Research Methods in Linguistics on Open Science and Reproducible Research in Linguistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/syllabus/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description>Note: Subject to change depending on the needs of the class.
+
+ Date Lesson Readings Slides PA   Thursday, 01/24 Week 1: Intro. What is open science? Setup.      Thursday, 01/31 Week 2: Reproducibility crisis. Version control I: Into to github.      Thursday, 02/07 Week 3: Registered reports. Communicating/sharing I: Intro to RMarkdown. P1 - Nichole.      Thursday, 02/14 Week 4: Version control II: Reproducible projects in RStudio.</description>
+    </item>
+    
+    <item>
+      <title>Policies</title>
+      <link>/policies/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/policies/</guid>
+      <description>Evaluation: Your final grade will be comprised of the following:
+        Preparation and participation 15%   Programming assignments (3) 45%   Presentations (2) 10%   Research project 30%    Preparation and participation Students are expected to attend class prepared and to actively participate. Part of this grade is derived from reading summaries. Students will occasionally be required to write a brief summary (max.</description>
+    </item>
+    
+    <item>
+      <title>Components</title>
+      <link>/components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/components/</guid>
+      <description> Programming     Version control     Communicate    Topics:  Tidyverse Importing, cleaning/tidying data Transforming data Visualization     Topics:  Github RStudio projects     Topics:  RMarkdown knitr papaja xaringan github        </description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tools/</guid>
+      <description>R     Github     Slack     Datacamp    R is the statistical programming language we will learn about in this class. You can download R here. We will interface with R using RStudio, a fully feautred IDE. RStudio is available to download here.    Github is a Web-based Git version control repository hosting service. It is mostly used for computer code (like Dropbox for nerds).</description>
+    </item>
+    
+  </channel>
+</rss>

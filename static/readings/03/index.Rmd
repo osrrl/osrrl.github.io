@@ -1,0 +1,28 @@
+---
+title: "Readings"
+subtitle: "Week 3"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 3 class. 
+
+### Required readings
+
+- Gonzales, K, K. Byers-Heinlein and A. Lotto (2019). “How bilinguals perceive speech depends on which language they think they’re hearing”. In: Cognition 182, pp. 318–330.
+- van’t Veer, A. E. and R. Giner-Sorolla (2016). “Pre-registration in social psychology–A discussion and suggested template”. In: Journal of Experimental Social Psychology 67, pp. 2–12.
+- Wickham, H. and G. Grolemund (2016). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.
+    - https://r4ds.had.co.nz/r-markdown.html
+    - https://r4ds.had.co.nz/r-markdown-formats.html
+
+### Additional resources
+
+- [RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+- [RMarkdown reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- [Getting started with RMarkdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/)
+- [Data science and R: How do I start?](https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e)
+
+
+
+

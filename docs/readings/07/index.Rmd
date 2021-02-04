@@ -1,0 +1,26 @@
+---
+title: "Readings"
+subtitle: "Week 7"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 7 class. 
+
+### Required readings
+
+- Wickham, H. and G. Grolemund (2016). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.
+  - https://r4ds.had.co.nz/data-import.html
+- [papaja documentation](https://github.com/crsh/papaja): Read documentation, 
+install package and play with demo example.
+- [R Markdown with papaja (video pt. 1)](https://www.youtube.com/watch?v=I_HW5Rraqg8)
+- [R Markdown with papaja (video pt. 2)](https://www.youtube.com/watch?v=dmB6sHDbs7Q)
+
+### Additional resources
+
+- [papaja: Reproducible APA manuscripts with R Markdown (skim)](https://crsh.github.io/papaja_man/)
+- [More papaja](https://rpubs.com/YaRrr/papaja_guide)
+
+
+

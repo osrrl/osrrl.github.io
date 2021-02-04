@@ -1,0 +1,24 @@
+---
+title: "Readings"
+subtitle: "Week 8"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 8 class. 
+
+### Required readings
+
+- `xaringan basics` [ch2 draft](https://www.jvcasillas.com/ru_teaching/ru_spanish_581/581_01_s2019/readings/files/xaringan-book_ch2_draft.pdf), [rmd file](https://github.com/emitanaka/xaringan-book/blob/master/02-basics.Rmd)
+
+
+### Additional resources
+
+- [R Markdown presentations](https://dcl-2017-04.github.io/curriculum/rmarkdown-formats.html)
+- [xaringan tutorial 1](https://slides.yihui.name/xaringan/#1)
+- [xaringan tutorial 2](https://www.jvcasillas.com/ru_xaringan/slides/index.html#1)
+
+
+
+

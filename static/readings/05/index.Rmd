@@ -1,0 +1,27 @@
+---
+title: "Readings"
+subtitle: "Week 5"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 5 class. 
+
+### Required readings
+
+- Wickham, H. and G. Grolemund (2016). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.
+    - https://r4ds.had.co.nz/data-visualisation.html 
+    - https://r4ds.had.co.nz/workflow-basics.html
+- [R for excel users](http://rex-analytics.com/r-for-excel-users/)
+
+
+### Additional resources
+
+- [The tidyverse style guide](http://style.tidyverse.org)
+- [Data structure basics](https://dcl-2017-04.github.io/curriculum/data-structure-basics.html)
+- [ggplot2 cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
+- [Secrets to a happy graphing life](http://stat545.com/block016_secrets-happy-graphing.html)
+- [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
+
+

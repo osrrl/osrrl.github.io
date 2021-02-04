@@ -1,0 +1,20 @@
+---
+title: "Readings"
+subtitle: "Week 12"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 12 class. 
+
+### Required readings
+
+- Roettger, T. B. and D. Baer-Henney (2018). Towards a replication culture in phonetic research: Speech production research in the classroom. DOI: 10.31234/osf.io/q9t7c. https://psyarxiv.com/q9t7c/
+
+
+### Additional resources
+
+
+
+

@@ -1,0 +1,27 @@
+---
+title: "Readings"
+subtitle: "Week 4"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 4 class. 
+
+### Required readings
+
+- Casillas, J. V. and M. Simonet (2018). “Perceptual categorization and bilingual language modes: Assessing the double phonemic boundary in early and late bilinguals”. In: Journal of Phonetics 71, pp. 51–64.
+- Wickham, H. and G. Grolemund (2016). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.
+    - https://r4ds.had.co.nz/workflow-projects.html
+- [Guides to better science: Reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2018/12/BES-Reproducible-Code.pdf)
+
+### Additional resources
+
+- [What I wish I knew when I started R](https://www.williamrchase.com/slides/intro_r_anthropology_2018#1)
+- [Getting help](https://dcl-2017-04.github.io/curriculum/getting-help.html)
+- [Field Guide to the R Ecosystem (highly recommended)](http://fg2re.sellorm.com)
+
+
+
+
+

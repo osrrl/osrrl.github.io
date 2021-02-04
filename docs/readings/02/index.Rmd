@@ -1,0 +1,30 @@
+---
+title: "Readings"
+subtitle: "Week 2"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 2 class. 
+
+### Required readings
+
+- Gonzales, K. and A. J. Lotto (2013). “A bafri, un pafri: Bilinguals’ pseudoword identifications support language-specific phonetic systems”. In: Psychological science 24.11, pp. 2135–2142.
+- Bohannon, J. (2015). “Many psychology papers fail replication test”. In: Science 349.6251, pp. 910–911. ISSN: 0036-8075. DOI: 10.1126/science.349.6251.910. eprint: http://science.sciencemag.org/content/349/6251/910. full.pdf. http://science.sciencemag.org/content/349/6251/910.
+- Open Science Collaboration (2015). “Estimating the reproducibility of psychological science”. In: Science 349.6251. ISSN: 0036-8075. DOI: 10.1126/science.aac4716. eprint: http://science.sciencemag.org/content/349/ 6251/aac4716.full.pdf. http://science.sciencemag.org/content/349/6251/aac4716.
+- Crwell, S., J. van Doorn, A. Etz, et al. (2018). 8 Easy Steps to Open Science: An Annotated Reading List. DOI: 10.31234/osf.io/cfzyx. psyarxiv.com/cfzyx.
+
+
+### Additional resources
+
+- [Guides to better science: Data management](https://www.britishecologicalsociety.org/wp-content/uploads/2018/12/BES-Data-Management-GBIF.pdf)
+- [GitHub for the useR](http://happygitwithr.com)
+- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+- [Using Git and GitHub](https://biodatascience.github.io/compbio/github.html)
+- [The replication crisis (audio)](https://www.bbc.co.uk/programmes/m00013p9)
+
+
+
+
+

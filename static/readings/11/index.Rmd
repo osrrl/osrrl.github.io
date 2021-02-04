@@ -1,0 +1,15 @@
+---
+title: "Readings"
+subtitle: "Week 11"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 11 class. 
+
+### Required readings
+
+- Anwyl-Irvine, A. L., J. Massonni, A. Flitton, et al. (2018). Gorilla in our Midst: An online behavioral experiment builder. DOI: 10.31234/osf.io/kf5nu. https://psyarxiv.com/kf5nu/
+
+### Additional resources

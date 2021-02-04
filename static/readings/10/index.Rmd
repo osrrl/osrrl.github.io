@@ -1,0 +1,19 @@
+---
+title: "Readings"
+subtitle: "Week 10"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 10 class. 
+
+### Reading
+
+- [Psychopy tutorial](https://www.jvcasillas.com/psychopy_ws/hls_2017/#1)
+
+### Additional resources
+
+
+
+

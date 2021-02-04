@@ -1,0 +1,15 @@
+---
+title: "Readings"
+subtitle: "Week 13"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 13 class. 
+
+### Required readings
+
+- McGuire, G. (2010). “A brief primer on experimental designs for speech perception research”. In: Laboratory Report 77.
+
+### Additional resources

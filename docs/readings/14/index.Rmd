@@ -1,0 +1,21 @@
+---
+title: "Readings"
+subtitle: "Week 14"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 13 class. 
+
+### Reading
+
+- [Guides to better science: Promoting your research](https://www.britishecologicalsociety.org/wp-content/uploads/2018/12/BES-Promoting-Your-Research.pdf
+)
+- [Unity of science: Why linguistics faces bigger challenges than the replication crisis](https://dlc.hypotheses.org/1572)
+
+
+### Additional resources
+
+
+

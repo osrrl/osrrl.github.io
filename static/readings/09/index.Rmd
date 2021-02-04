@@ -1,0 +1,21 @@
+---
+title: "Readings"
+subtitle: "Week 9"
+output: 
+  html_document: 
+    theme: united
+---
+
+Readings to be completed before week 9 class. 
+
+### Required readings
+
+- Kording, K. P. and B. Mensh (2017). “Ten simple rules for structuring papers”. In: bioRxiv. eprint: https://www.biorxiv.org/content/early/2017/05/23/088278.full.pdf. https://www.biorxiv.org/content/early/ 2017/05/23/088278.
+- [An introduction to introductions](https://scholarstudioblog.wordpress.com/2017/10/10/introduction-to-introductions/)
+
+### Additional resources
+
+
+
+
+
